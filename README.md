@@ -22,3 +22,6 @@ La web mantiene el grid, Offgrid en tercera posición, las barras del hero separ
 La música se carga desde su URL externa de Framer. El formulario de contacto abre el programa de correo del visitante mediante mailto; no utiliza un servidor de envío.
 
 Documentación: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+
+## Versión ligera
+Las imágenes están optimizadas en WebP conservando sus dimensiones. Sube TODOS los archivos de este paquete, incluidos HTML, CSS y JavaScript, porque las rutas ahora usan .webp. No mezcles los archivos de código anteriores con estas imágenes.

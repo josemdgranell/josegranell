@@ -1,0 +1,7 @@
+CORRECCIÓN DE RUTAS
+
+Sube TODO el contenido de esta carpeta a la raíz del repositorio, sustituyendo los archivos existentes. Incluye la carpeta projects. No lo subas dentro de una carpeta nueva.
+
+Las imágenes WebP de assets ya están subidas: no es necesario volver a subirlas. El archivo index.html ahora carga app-webp.js y fuerza la actualización del código y estilos en caché.
+
+Espera a que GitHub Pages termine de publicar y recarga la página.
