@@ -4,3 +4,6 @@
 
 /* Supplied hero artwork with restrained perspective. */
 .avatar-scene{perspective:1000px;display:grid;align-items:center;min-width:0}.avatar-tilt{width:112%;margin-left:-6%;transform-style:preserve-3d;transform-origin:50% 50%;will-change:transform}.hero-avatar{display:block;width:100%;height:auto;max-height:485px;object-fit:contain;filter:drop-shadow(0 20px 16px #17171712);user-select:none}.avatar-scene .orbit{width:85%;height:auto;aspect-ratio:1;left:8%;top:7%;opacity:.4;z-index:-1}.portrait{filter:none;height:auto;max-height:none;aspect-ratio:1056/1045;object-fit:cover;object-position:center;border-radius:4px}@media(max-width:680px){.avatar-scene{height:auto;min-height:300px;margin:20px 0 30px;padding:20px 0 28px}.avatar-tilt{width:100%;margin:0}.hero-avatar{max-height:350px}.avatar-scene .art-caption{bottom:0}.portrait{height:auto}}@media(prefers-reduced-motion:reduce){.avatar-tilt{transform:none!important;will-change:auto}}
+
+/* Code-drawn arrows keep the same appearance on iOS and desktop. */
+.ui-arrow{display:inline-block;width:1em;height:1em;min-width:1em;vertical-align:-.12em;overflow:visible;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0;pointer-events:none}
