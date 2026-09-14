@@ -1,0 +1,1 @@
+document.documentElement.removeAttribute('data-theme');try{localStorage.removeItem('granell-theme')}catch{};

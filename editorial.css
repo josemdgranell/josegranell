@@ -1,0 +1,9 @@
+.hero-scroll,.hero-fracture{background:#fff}.hero-fracture{position:absolute;inset:0;z-index:5;pointer-events:none;clip-path:polygon(50% 100%,50% 100%,50% 100%);will-change:clip-path}.immersive-home #work{margin-top:-35svh;border-radius:0;box-shadow:none}.hero-scroll-meter{z-index:6}
+.lofi-intro{display:block;font-size:16px;line-height:1.75;color:#ccc;margin:0 0 20px!important;max-width:560px}
+@media(max-width:950px){}
+@media(max-width:680px){.immersive-home #work{margin-top:-20svh}.lofi-intro{font-size:15px}}
+@media(prefers-reduced-motion:reduce){.hero-fracture{display:none}.immersive-home #work{margin-top:0}}
+
+.hero-glyph{gap:clamp(36px,5vw,80px)}
+.lofi-player{grid-template-columns:90px 1fr;gap:18px;padding:18px;max-width:480px}.lofi-art{align-self:center}.lofi-eyebrow{display:block;margin-bottom:14px}.lofi-transport{gap:12px}.lofi-toggle{width:38px;height:38px;font-size:17px}.lofi-seek-label{margin-top:8px!important;margin-bottom:4px!important}.lofi-volume-label{margin-bottom:0!important}.lofi-intro{margin-bottom:14px!important}
+@media(max-width:680px){.hero-glyph{gap:28px}.lofi-player{grid-template-columns:70px 1fr;gap:14px;padding:15px}.lofi-eyebrow{margin-bottom:10px}}
